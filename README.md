@@ -6,3 +6,4 @@ Disciplina de Desafios de Programação
 [11459 - Snakes and Ladders](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=26&page=show_problem&problem=2454) | [Solution](code/11459.cpp)
 
 
+[556 - Amazing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=497) | [Solution](code/556.cpp)
