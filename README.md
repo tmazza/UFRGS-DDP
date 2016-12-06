@@ -7,3 +7,5 @@ Disciplina de Desafios de Programação
 
 
 [556 - Amazing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=497) | [Solution](code/556.cpp)
+
+[10954 - Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1895) | [Solution]() 
