@@ -5,6 +5,8 @@ Disciplina de Desafios de Programação
 
 [556 - Amazing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=497) | [Solution](code/556.cpp)
 
+[10172- The Lonesome Cargo Distributor](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1113) | [Solution](code/10172.cpp)
+
 [10935 - Throwing Cards Away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1876) | [Solution](code/10935.cpp) 
 
 [10954 - Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1895) | [Solution](code/10954.cpp) 
